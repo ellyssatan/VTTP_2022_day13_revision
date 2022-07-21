@@ -12,7 +12,7 @@ public class PersonService {
     private List<Person> persons = new ArrayList<Person>();
 
     public PersonService() {
-        persons.add(new Person("Mark", "Z"));
+        persons.add(new Person("Mark", "Zuckerburg"));
         persons.add(new Person("Elon", "Musk"));
 
     }
